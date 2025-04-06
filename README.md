@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @proxyoil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+مرحبا بكم عملائنا الكرام في المتجر الرسمي الاول للزيت الأفغاني ماركة بروكسي 
+عروض حصرية توصيل مجانا والدفع عند الاستلام 
 
 <!---
 proxyoil/proxyoil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
